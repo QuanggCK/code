@@ -1,6 +1,3 @@
-# BAI TAP: 2.1, 2.3, 2.4, 2.5 (tu tu lam), 2.6, 2.7 (lam roi) (bai + diem = lam phan mem thong ke so lan xuat hien), 2.9
-# 1. Giải mã bản mã sau, giả sử mã hóa Ceasar được sử dụng để mã hóa với k=3:
-# IRXUVFRUHDQGVHYHQBHDUVDJR
 ciphertext = "IRXUVFRUHDQGVHYHQBHDUVDJR"
 k = 3
 

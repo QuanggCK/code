@@ -1,5 +1,4 @@
-# 3. Mã hóa bản rõ sau: ‘enemy coming’, dùng phương pháp mã hóa thay thế đơn
-# bảng với khóa hoán vị K là: IAUTMOCSNREBDLHVWYFPZJXKGQ
+
 def monoalphabetic_encrypt(plaintext: str, key: str) -> str:
     alphabet = "ABCDEFGHIJKLMNOPQRSTUVWXYZ"
     table = str.maketrans(

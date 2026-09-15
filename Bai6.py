@@ -5,4 +5,4 @@ for k in range(26):
         chr((ord(char) - ord('A') - k) % 26 + ord('A'))
         for char in ciphertext
     )
-    print(f"k = {k:2d}: {plaintext}")
+    print(f"k = {k:d}: {plaintext}")
