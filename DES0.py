@@ -23,4 +23,3 @@ tmp = des.decrypt(cipher)
 # convert kiểu bytes sang kiểu string
 text = tmp.decode()
 print(text)
-    s
